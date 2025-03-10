@@ -7,6 +7,7 @@ terraform {
     skip_metadata_api_check     = true
 
     // state will be stored in given bucket and object
+    // bucket should be created before `terraform init`
     bucket                      = "<BUCKET-ID>"
     key                         = "terraform-example-state"
 
