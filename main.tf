@@ -23,4 +23,3 @@ terraform {
     //     -backend-config="secret_key=<secret_value>"
   }
 }
-
