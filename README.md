@@ -6,4 +6,4 @@
 
 Пример конфигурационного файла Terraform `main.tf` с настройкой бэкенда, описывающий хранение состояния, расположен в этом репозитории.
 
-Чтобы настроить хранение состояний, воспользуйтесь практическим руководством [Блокировка состояний Terraform с помощью Yandex Managed Service for YDB](https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-state-lock).
+Чтобы настроить хранение состояний с использованием Yandex Object Storage и YDB, воспользуйтесь практическим руководством [Блокировка состояний Terraform с помощью Yandex Managed Service for YDB](https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-state-lock).
